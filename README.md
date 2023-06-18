@@ -1,8 +1,6 @@
 Hi, I’m @arkkilab.
 
-Everything is currently under construction.  
-
-www.arkkilab.com
+Everything is currently under construction.   
 
 <!---
 arkkilab/arkkilab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
